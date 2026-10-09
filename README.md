@@ -47,6 +47,13 @@ A potentiometer simulates the sensor signal during testing.
 - D11 / PA7: SPI MOSI
 - D13 / PA5: SPI clock
 - PA2 / PA3: UART connections
+- 
+## System Circuit
+
+<img width="957" height="872" alt="image" src="https://github.com/user-attachments/assets/d4a6d544-e4b7-4f4f-8eef-b518c768ef34" />
+
+The circuit is simulated in Wokwi using an STM32 Nucleo-C031C6,
+with an analog potentiometer input and status indication outputs.
 
 ## Testing
 
